@@ -4,10 +4,10 @@ A Python currency bot is a basic application that allows users to quickly and ea
 ## Functionality
 The bot's core functionality involves:
 
-Retrieving Exchange Rates: Using the Fixer.io API, the bot fetches the latest exchange rates for various currency pairs.
-User Input: The bot prompts the user to enter the amount they wish to convert, the base currency, and the target currency.
-Conversion Calculation: Based on the provided information and the retrieved exchange rates, the bot performs the necessary calculations to determine the converted amount.
-Displaying Results: The bot presents the calculated result to the user, along with the date and time of the conversion.
+- Retrieving Exchange Rates: Using the Fixer.io API, the bot fetches the latest exchange rates for various currency pairs.
+- User Input: The bot prompts the user to enter the amount they wish to convert, the base currency, and the target currency.
+- Conversion Calculation: Based on the provided information and the retrieved exchange rates, the bot performs the necessary calculations to determine the converted amount.
+- Displaying Results: The bot presents the calculated result to the user, along with the date and time of the conversion.
 
 # Enhanced Bot Experience
 
