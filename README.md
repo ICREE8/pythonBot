@@ -13,10 +13,10 @@ The bot's core functionality involves:
 
 ## To improve the user experience, the bot can incorporate additional features such as:
 
-History: Storing a record of previous conversions for easy reference.
-Favorites: Allowing users to save frequently used currency pairs.
-Multiple Languages: Supporting different languages to cater to a wider audience.
-Integration: Integrating with messaging platforms or voice assistants for convenient access.
+- History: Storing a record of previous conversions for easy reference.
+- Favorites: Allowing users to save frequently used currency pairs.
+- Multiple Languages: Supporting different languages to cater to a wider audience.
+- Integration: Integrating with messaging platforms or voice assistants for convenient access.
 
 By implementing these enhancements, the currency bot becomes a more versatile and user-friendly tool for various needs.
 
